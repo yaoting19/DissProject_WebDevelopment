@@ -1,0 +1,48 @@
+h2 {
+    font-family:cursive;
+    font-weight:bold;
+    font-size: 40px;
+}
+body {
+    background-color: #DBEAF8;
+}
+button {
+    font-weight: bolder;
+}
+h5 {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+.category {
+    margin: 30px;
+}
+.card {
+    color:black;
+    font-weight: bold;
+}
+.section {
+    background-color: #DBEAF8;
+    margin-top: 5px;
+    font-size: 35px;
+    text-align: center;
+}
+.option {
+    background-color: #DBEAF8;
+    margin-right: 10px;
+    width: 18rem;
+}
+h6 {
+    font-size:25px;
+    font-family: cursive;
+    font-weight: medium;
+}
+li {
+    font-family:cursive;
+    font-weight: medium;
+    font-size: large;
+}
+p {
+    font-family: cursive;
+    font-weight: lighter;
+}
